@@ -1,0 +1,1 @@
+# Hb-Inheritance-with-table-per-class
